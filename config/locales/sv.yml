@@ -925,6 +925,10 @@ sv:
       search: Sök
       title: Hashtaggar
       updated_msg: Hashtagg-inställningarna har uppdaterats
+    terms_of_service:
+      draft: Utkast
+      publish: Publicera
+      title: Användarvillkor
     title: Administration
     trends:
       allow: Tillåt
@@ -1835,6 +1839,8 @@ sv:
       too_late: Det är för sent att överklaga denna strejk
   tags:
     does_not_match_previous_name: matchar inte det föregående namnet
+  terms_of_service:
+    title: Användarvillkor
   themes:
     contrast: Mastodon (Hög kontrast)
     default: Mastodon (Mörk)
